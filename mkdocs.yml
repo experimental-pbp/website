@@ -10,6 +10,7 @@ site_description: >-
 copyright: Copyright &copy; 2022 Muhammad Athallah
 
 theme:
+  language: id
   logo: assets/img/logo.png
   favicon: assets/img/logo.png
   name: material
