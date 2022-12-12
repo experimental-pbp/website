@@ -2,6 +2,7 @@ site_name: Pemrograman Berbasis Platform
 theme:
   name: material
   palette:
+    primary: deep purple
 
     # Palette toggle for light mode
     - scheme: default
