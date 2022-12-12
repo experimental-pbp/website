@@ -1,16 +1,16 @@
 # Project information
-site_name: Pemrograman Berbasis Platform
+site_name: Experimental PBP
 site_url: https://experimental-pbp.github.io/website/
 site_author: PBP Fasilkom UI
 site_description: >-
-  Situs web materi mata kuliah Pemrograman Berbasis Platform,
-  Fakultas Ilmu Komputer, Universitas Indonesia
+  Situs web materi Pemrograman Berbasis Platform,
+  dikembangkan secara terpisah dan eksperimental.
 
 # Copyright
-copyright: Copyright &copy; 2022 PBP Fasilkom UI
+copyright: Copyright &copy; 2022 Muhammad Athallah
 
 theme:
-  logo: assets/img/makara.png
+  logo: assets/img/logo.png
   name: material
   palette:
 
