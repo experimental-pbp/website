@@ -51,6 +51,6 @@ theme:
 nav:
   - Beranda: index.md
   - Django:
-    - django/index.md
+    - django/
   - Flutter:
-    - flutter/index.md
+    - flutter/
