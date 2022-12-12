@@ -1,5 +1,6 @@
 site_name: Pemrograman Berbasis Platform
 theme:
+  logo: assets/img/makara.png
   name: material
   palette:
 
