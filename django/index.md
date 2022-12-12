@@ -1,1 +1,3 @@
 # Django
+
+Ini halaman Django.
